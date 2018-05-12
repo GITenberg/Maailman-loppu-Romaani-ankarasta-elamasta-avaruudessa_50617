@@ -1,10 +1,16 @@
 _repo: Maailman-loppu-Romaani-ankarasta-elamasta-avaruudessa_50617
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rauhala, K. N.
     gutenberg_agent_id: '45997'
     url: http://www.gutenberg.org/2009/agents/45997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50617#Maailman-loppu-Romaani-ankarasta-elamasta-avaruudessa
 gutenberg_issued: '2015-12-05'
 gutenberg_type: Text
 identifiers:
